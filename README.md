@@ -32,7 +32,7 @@ The examples require Python 3.11 or later, `jaxmat` version 0.1 and its dependen
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install "jaxmat @ git+https://github.com/erc-automatix/jaxmat.git@JAXMAT_TAG"
+pip install jaxmat==0.1
 pip install numpy scipy pandas matplotlib jupyterlab jupytext
 ```
 
@@ -86,13 +86,12 @@ MPLBACKEND=Agg python hardening_slot.py
 If you use this material, please cite the paper:
 
 ```bibtex
-@article{bleyer_hale_constitutive_learning,
+@unpublished{bleyer_hale_constitutive_learning,
   author  = {Bleyer, Jeremy and Hale, Jack S.},
   title   = {Constitutive Learning: a unification of constitutive models with machine learning
              for automated material modeling},
-  journal = {JOURNAL},
   year    = {2026},
-  doi     = {PAPER_DOI}
+  note = {https://hal.science/hal-05869018}
 }
 ```
 
