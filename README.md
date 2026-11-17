@@ -103,7 +103,7 @@ and, for the notebooks themselves, the Zenodo record:
   title     = {Constitutive Learning: supplementary notebooks},
   publisher = {Zenodo},
   year      = {2026},
-  doi       = {ZENODO_DOI}
+  doi       = {10.5281/zenodo.24312131}
 }
 ```
 
