@@ -4,8 +4,7 @@
 
 This repository contains the numerical examples of the paper
 
-> J. Bleyer and J. S. Hale, *Constitutive Learning: a unification of constitutive models with
-> machine learning for automated material modeling*, JOURNAL, YEAR. DOI: PAPER_DOI
+> J. Bleyer and J. S. Hale, *Constitutive Learning: a unification of constitutive models with machine learning for automated material modeling*, 2026, preprint, [⟨hal-05869018⟩](https://enpc.hal.science/hal-05869018v1)
 
 In this framework, classical constitutive models and machine learning models are treated as parameterized, differentiable operators. Each example builds a hybrid constitutive model by substituting, augmenting, composing or parameterizing modules of a metamodel. The models are implemented with [`jaxmat`](https://github.com/erc-automatix/jaxmat), a constitutive modeling
 library built on JAX, and calibrated by gradient-based optimization, with gradients obtained by automatic differentiation through the constitutive updates.
