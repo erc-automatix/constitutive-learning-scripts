@@ -1,6 +1,6 @@
 ## Constitutive Learning: supplementary notebooks
 
-[DOI](https://doi.org/ZENODO_DOI)
+[DOI](https://doi.org/10.5281/zenodo.24312131)
 
 This repository contains the numerical examples of the paper
 
@@ -115,6 +115,8 @@ The notebooks are distributed under the GPL 3.0 license (see `LICENSE`). The dat
 remain subject to the terms of their sources, listed above.
 
 ## Funding
+
+![ERC funding](https://erc.europa.eu/sites/default/files/inline-images/HE%20logo.png)
 
 J. Bleyer received funding from the European Union (ERC, Automatix, CoG project no 101229452).
 Views and opinions expressed are however those of the authors only and do not necessarily reflect those of the European Union or the European Research Council. Neither the European Union nor the granting authority can be held responsible for them.
